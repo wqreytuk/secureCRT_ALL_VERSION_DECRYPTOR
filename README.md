@@ -29,3 +29,10 @@ https://download-directory.github.io/
 
 
 如果有问题，请向我反馈
+
+
+解密结果保存在
+
+c:\users\public\pass.txt
+
+中
